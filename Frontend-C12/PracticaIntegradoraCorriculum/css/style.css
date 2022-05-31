@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+.foto{
+    background-color:#E6E6E6;
+    text-align: center;
+    
+    
+}
+.fotocarne{
+    width: 100px;
+}
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    letter-spacing: 7px;
+}
+main h3{
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+}
+.pie{
+    background-color: #005677;
+    height: 37px;
+    text-align: center;
+    align-items:center;
+
+}
+footer span{
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
+main span{
+    font-weight: bold;
+    
+}
+.datos span{
+    font-style: italic;
+}
+footer img{
+    margin-left: 20px;
+    margin-top: 8px;
+}
