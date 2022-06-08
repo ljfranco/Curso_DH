@@ -1,0 +1,7 @@
+.languageBar{
+    background-color:#222222;
+    color: #F3F3F3;
+}
+.languageMenu li{
+    display: inline;
+}
